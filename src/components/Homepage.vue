@@ -108,7 +108,7 @@
         </v-card>
     </v-container>
 
-    <--new section>
+    <!--new section> -->
         <v-container>
         <v-card class="mx-auto" elevation="24" color = "black">
             <v-container>
